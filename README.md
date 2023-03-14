@@ -64,7 +64,7 @@ I neet to focus on those two areas:
 
 ## Author
 
-- Website - [Raghda Mohamed](https://www.your-site.com)
+- Website - [Raghda Mohamed](https://raghda19.github.io/QR-code-component/)
 - Frontend Mentor - [@Raghda19](https://www.frontendmentor.io/profile/Raghda19)
 
 
